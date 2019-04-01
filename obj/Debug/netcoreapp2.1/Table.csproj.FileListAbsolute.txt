@@ -1,0 +1,11 @@
+C:\Users\heai0\OneDrive\Desktop\table\bin\Debug\netcoreapp2.1\Table.deps.json
+C:\Users\heai0\OneDrive\Desktop\table\bin\Debug\netcoreapp2.1\Table.runtimeconfig.json
+C:\Users\heai0\OneDrive\Desktop\table\bin\Debug\netcoreapp2.1\Table.runtimeconfig.dev.json
+C:\Users\heai0\OneDrive\Desktop\table\bin\Debug\netcoreapp2.1\Table.dll
+C:\Users\heai0\OneDrive\Desktop\table\bin\Debug\netcoreapp2.1\Table.pdb
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.csprojAssemblyReference.cache
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.csproj.CoreCompileInputs.cache
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.AssemblyInfoInputs.cache
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.AssemblyInfo.cs
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.dll
+C:\Users\heai0\OneDrive\Desktop\table\obj\Debug\netcoreapp2.1\Table.pdb
